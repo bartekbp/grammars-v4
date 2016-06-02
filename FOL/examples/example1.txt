@@ -1,2 +1,0 @@
-Forall ?a B
-
